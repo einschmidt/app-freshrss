@@ -16,7 +16,7 @@ RUN \
         git=2.49.1-r0 \
     \
     && apk add --no-cache \
-        tzdata=2025b-r0 \
+        tzdata=2025c-r0 \
         nginx=1.28.0-r3 \
         php83 php83-curl php83-gmp php83-intl php83-mbstring php83-xml php83-zip \
         php83-ctype php83-dom php83-fileinfo php83-iconv php83-json php83-opcache \
