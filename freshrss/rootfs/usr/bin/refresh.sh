@@ -7,7 +7,7 @@ main() {
     bashio::log.trace "${FUNCNAME[0]}"
 
     while true; do
-        /usr/bin/php /usr/share/freshrss/app/actualize_script.php
+        /usr/bin/php83 /usr/share/freshrss/app/actualize_script.php
         sleep 1200
     done
 }
