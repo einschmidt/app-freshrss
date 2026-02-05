@@ -1,6 +1,6 @@
 #!/command/with-contenv bashio
 # ==============================================================================
-# Home Assistant Add-on: FreshRSS
+# Home Assistant App: FreshRSS
 # Runs the Nginx daemon
 # ==============================================================================
 

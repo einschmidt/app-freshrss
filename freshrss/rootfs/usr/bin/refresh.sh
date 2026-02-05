@@ -1,7 +1,7 @@
 #!/command/with-contenv bashio
 # shellcheck shell=bash
 # ==============================================================================
-# Home Assistant Add-on: FreshRSS
+# Home Assistant App: FreshRSS
 # ------------------------------------------------------------------------------
 main() {
     bashio::log.trace "${FUNCNAME[0]}"

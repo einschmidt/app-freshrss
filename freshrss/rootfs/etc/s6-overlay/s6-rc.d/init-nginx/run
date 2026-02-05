@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bashio
 # shellcheck shell=bash
 # ==============================================================================
-# Home Assistant Add-on: FreshRSS
+# Home Assistant App: FreshRSS
 # Configures NGINX for use with freshrss
 # ==============================================================================
 
